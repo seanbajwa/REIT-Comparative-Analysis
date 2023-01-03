@@ -72,4 +72,4 @@ _______________________________________________
 
 ####Vba code helps file map your list.xlsx (alt +f11 and add module of vba script) 
 #list.xlsx add as many names as you like and for loop will create in your selected folder path.
-# Python REIT List are the most important REITs arguably in 2022 based on Competitive Market Analysis Prop Research owned by ACORE Capital (all rights reserved)
+# Python REIT List are the most important REITs arguably in 2022 based on Competitive Market Analysis Prop Research owned by REPE Fund (all rights reserved)
